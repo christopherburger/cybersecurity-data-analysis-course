@@ -1,6 +1,6 @@
 ---
 title: "Course Overview"
-subtitle: "Name"
+subtitle: "Data Analysis in Cybersecurity"
 author: "Christopher Burger"
 institute: "University of Mississippi | School of Engineering"
 format: 

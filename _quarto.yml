@@ -5,7 +5,7 @@ execute:
   freeze: auto
 
 website:
-  title: "COURSE"
+  title: "Data Analysis in Cybersecurity"
   sidebar:
     style: "floating"
     contents:
